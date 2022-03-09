@@ -1,1 +1,1 @@
-# dgp
+# discrete geometry processing
